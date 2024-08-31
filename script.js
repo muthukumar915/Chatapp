@@ -8,7 +8,7 @@ const responses = {
     "hello": "Hi there! How can I help you today?",
     "hi": "Hello! What can I do for you?",
     "how are you?": "I'm just a bot, but I'm doing great! How about you?",
-    "what's your name?": "I'm a simple chatbot created to assist you.",
+    "what is  your name?": "I'm a simple chatbot created to assist you.",
     "bye": "Goodbye! Have a great day!",
     "default": "I'm sorry, I don't understand that. Can you rephrase?"
 };
